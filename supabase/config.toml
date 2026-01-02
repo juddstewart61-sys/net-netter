@@ -1,0 +1,4 @@
+project_id = "jcvuqlhbtdgfjohuzksr"
+
+[functions.analyze-firewall]
+verify_jwt = false
